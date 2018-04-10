@@ -19,6 +19,6 @@ First prize winner at National Level e-Yantra Robotics Competition 2014-15 condu
 - **docs** - Documentation on the working of the robot and some of the task submissions
 
 ## Caretaker Robot
-![]((https://github.com/heethesh/Autonomous-Indoor-Navigation-using-Image-Processing/blob/master/images/caretaker_robot.jpg)
+![](https://github.com/heethesh/Autonomous-Indoor-Navigation-using-Image-Processing/blob/master/images/caretaker_robot.jpg)
 
 
