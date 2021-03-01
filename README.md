@@ -1,6 +1,6 @@
 # Autonomous Indoor Navigation using Image Processing
 
-**NOTE: This is a very old project from 2014 from my first year of undergrad, that uses Python 2.7 and also was my first project in Python and working with Embedded C, probably why it's so poorly written and organized! I no longer maintain this repository, but feel free to ask any project related questions in the issues page. Refer the white paper PDF available in this repo for more details about the project.**
+**NOTE: This is a very old project from 2014 from my first year of undergrad, that uses Python 2.7 and also was my first project in Python and working with Embedded C, probably why it's so poorly written and organized! I no longer maintain this repository, but feel free to ask any project related questions in the issues page. Refer to the [white paper](https://github.com/heethesh/Autonomous-Indoor-Navigation-using-Image-Processing/blob/master/White%20Paper%20-%20Heethesh%20Vhavle%2C%20Robot%20Navigation%20and%20Path%20Planning%20Using%20Image%20Processing.pdf) PDF available in this repo for more details about the project.**
 
 Team ID: **eYRC+#1673** | 
 First prize winner at National Level e-Yantra Robotics Competition 2014-15 conducted by e-Yantra, CSE Department, IIT Bombay, sponsored by MHRD, Government of India
