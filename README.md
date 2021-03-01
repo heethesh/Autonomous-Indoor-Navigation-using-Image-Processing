@@ -21,4 +21,5 @@ First prize winner at National Level e-Yantra Robotics Competition 2014-15 condu
 ## Caretaker Robot
 ![](https://github.com/heethesh/Autonomous-Indoor-Navigation-using-Image-Processing/blob/master/images/caretaker_robot.jpg)
 
-
+## Encoded Commands used in Serial Communication
+![](https://github.com/heethesh/Autonomous-Indoor-Navigation-using-Image-Processing/blob/master/images/Encoded%20Commands%20List.jpg)
